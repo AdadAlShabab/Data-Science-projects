@@ -9,6 +9,13 @@ Password Strength Prediction : This predicts your password's strength. A Linear 
 Text Classification: This project uses machine learning to classify text into different categories. The model is trained on a dataset of text documents, each of which has been labeled with a category.</br>
 Sentiment Analysis: This project uses natural language processing to analyze the sentiment of text. The model is trained on a dataset of text documents, each of which has been labeled with a sentiment (positive, negative, or neutral).</br>
 Data Visualization: This project uses data visualization techniques to explore and communicate the results of data analysis. The project includes a variety of visualizations, including bar charts, line graphs, and scatter plots.</br>
+### Technologies Used  
+![](https://forthebadge.com/images/badges/made-with-python.svg) 
+
+<img target="_blank" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
+
 ### Getting Started
 To get started with this repository, you will need to clone it to your local machine. Once you have cloned the repository, you can open the Jupyter notebooks in a web browser. The Jupyter notebooks contain all of the code and data that you need to run the projects.
 
