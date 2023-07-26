@@ -12,6 +12,7 @@ Sentiment Analysis: This project uses natural language processing to analyze the
 Data Visualization: This project uses data visualization techniques to explore and communicate the results of data analysis. The project includes a variety of visualizations, including bar charts, line graphs, and scatter plots.</br>
 
 ### Technologies Used  
+
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 <img target="_blank" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
